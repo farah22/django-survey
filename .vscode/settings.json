@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "https://c1bde22c7dfe.ngrok.app",
+        "projectKey": "farah22_django-survey_5562c7ba-b487-423b-a2d3-0894d2b95c00"
+    }
+}
